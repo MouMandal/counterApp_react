@@ -1,0 +1,24 @@
+.para {
+    text-align: center;
+
+    font-size: 40px;
+}
+
+.btn {
+    margin: 40px;
+   
+}
+
+.white-background {
+    background-color: white;
+    color: black;
+    height: 100vh;
+
+}
+
+.dark-background {
+    background-color: black;
+    color: white;
+    height: 100vh;
+
+}
